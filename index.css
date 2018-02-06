@@ -5,3 +5,13 @@
 	margin-right: auto; 
 	display:block;
 }
+
+.listSpace {
+	margin-bottom:10px;
+	box-shadow:rgba(0,0,0,0.4) 2px 2px inset
+}
+
+#blockQuote {
+	margin-right: auto;
+	margin-left: auto;
+}
